@@ -1,6 +1,6 @@
 # Machine Learning Projects & Exercises
 
-This repository contains a collection of machine learning projects, assignments, and working notebooks from coursework and personal exploration. It includes implementations of core ML algorithms, model evaluation techniques, and applied projects using real-world datasets. Topics covered range from supervised learning to unsupervised methods, with additional focus on practical model tuning and data preprocessing.
+This repository contains a collection of machine learning projects, assignments, and working notebooks from my coursework at Columbia University and personal exploration. It includes implementations of core ML algorithms, model evaluation techniques, and applied projects using real-world datasets. Topics covered range from supervised learning to unsupervised methods, with additional focus on practical model tuning and data preprocessing.
 
 ---
 
