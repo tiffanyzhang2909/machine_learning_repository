@@ -1,10 +1,16 @@
-# Machine Learning Projects & Exercises
 
-This repository contains a collection of machine learning projects, assignments, and working notebooks from my coursework at Columbia University and personal exploration. It includes implementations of core ML algorithms, model evaluation techniques, and applied projects using real-world datasets. Topics covered range from supervised learning to unsupervised methods, with additional focus on practical model tuning and data preprocessing.
+A collection of applied data science and AI projects, spanning traditional machine learning, GenAI/agentic pipelines, and MLOps. Includes coursework from Columbia University alongside independent projects exploring LLM-based automation and production ML systems.
 
 ---
 
-## Projects
+## Independent Projects
+
+### 1. Financial Research Agent — LangChain/LangGraph/LangSmith
+- [View Repository](https://github.com/tiffanyzhang2909/financial-research-agent)
+- A multi-stage LLM pipeline that takes a stock ticker and produces a structured investment memo, built with LangChain, LangGraph, and the Claude API. Includes hallucination detection and correction through pipeline-state inspection.
+
+
+## Coursework Projects (Columbia University)
 
 ### 1. Word Embeddings and Sentiment Analysis
 - 📄 [View HTML Notebook](./Word%20Embeddings%20and%20Sentiment%20Analysis.html)
